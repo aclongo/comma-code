@@ -1,5 +1,5 @@
 # comma-code
-This is my solution to the Comma Code project assignment from Chapter 4: Lists of "Automate the Boring Stuff with Python."
+This is my solution to the Comma Code project assignment from Chapter 4: Lists of <a href="https://automatetheboringstuff.com/">"Automate the Boring Stuff with Python."</a>
 
 <p>The program allows a user to enter as many words as they would like. Each word is added to a list.<br>
 The user can stop entering words by entering a blank space. This will then call the function.<br>
