@@ -1,4 +1,5 @@
-# Write a function that takes a list value and returns a string with all items separated by a comma and a space with 'and' inserted before the last item
+# Write a function that takes a list value and returns a string with all items 
+# separated by a comma and a space with 'and' inserted before the last item
 
 def comma_func(raw_list):
     # Create an empty string
