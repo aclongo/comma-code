@@ -17,7 +17,8 @@ The function takes the list of words and creates a string with comma separation 
 
 ### Input Validation
 Prevents the following situations:
- <ul> <li>an empty list [ ]</li>
+ <ul>
+  <li>an empty list [ ]</li>
   <li>a one item list ['cat']</li>
   <li>more than one word with spaces entered at once</li>
   <li>numbers or symbols being entered instead of a word</li>
