@@ -13,7 +13,7 @@ The function takes the list of words and creates a string with comma separation 
   dog<br>
   
 <b>Generated List:</b> ['cat', 'bat', 'frog', 'dog']<br>
-<b>Output String:</b> 'Your list: cat, bat, frog and dog'</p>
+<b>Output String:</b> 'Your list: cat, bat, frog and dog.'</p>
 
 ### Input Validation
 Prevents the following situations:
